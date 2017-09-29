@@ -1,0 +1,39 @@
+README
+Created Tue Jun  6 16:40:51 AKDT 2006
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Directory of gear.
+
+
+
+Repairs
+=======
+00ARCHIVES/
+  Archives
+
+REI contractor (fixed Cannondale caboose):
+Rainy Pass Repair
+phone:   (888)RIP-STOP 
+         (206)523-8135
+web:     http://www.rainypass.com/
+address: 4415 Stone Way North
+         Seattle, WA 98103
+
+Oak's Alteration
+710 W. Northern Lights Blvd., Suite 5
+Anchorage, AK 99503
+phone: (907)563-5544
+
+
+Filelist
+========
+cases/
+  Cases
+
+links.txt
+  Gear related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under gear/
