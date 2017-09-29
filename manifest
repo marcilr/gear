@@ -28,7 +28,7 @@
 # Gear
 #
 # =====================================================================
-ssh://htpc/data/git/gear/appliances/appliances   appliances
+ssh://git@github.com/marcilr/appliances           appliances
 ssh://htpc/data/git/gear/cases                   cases
 ssh://htpc/data/git/gear/lights/lights           lights
 ssh://htpc/data/git/gear/lights/fenix            lights/fenix
