@@ -1,0 +1,66 @@
+#
+# svn_ext_val.txt
+# Created Wed Dec 21 18:28:40 AKST 2011
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under gear/
+#
+# bird-feeder/     Bird Feeder
+# carts/           Carts for hauling rocks and such.
+# case/            Cases such as Pelican.
+# climbing/        Climbing and mountaineering.
+# compass/         Compasses
+# docs/            Documentation
+# fishing/         Fishing
+#
+# flask/           Have wanted a nice pewter flask for a while.
+#                  The Wentworth pewter flask ($68, kaufmann-mercantile.com)
+#                  I spotted in the June 2012 Playboy looks sweet.
+#
+# guns/            Guns, rifles, and such
+# lighters/        Lighters
+# pads/            Sleeping pads
+# rafts/           Rafts and packrafts.
+#
+# sat-phone/       Satellite Phone
+#                  http://en.wikipedia.org/wiki/Satellite_phone
+#
+# sleeping-bags/   Sleeping bags
+# snowshoes/       Snowshoes
+# water/           Bottles, sterilizers, and tanks.
+#
+../../gear/backpacks/backpacks           ./backpacks
+../../gear/bags/bags                     ./bags
+../../gear/batteries/batteries           ./batteries
+../../gear/bird-feeder/bird-feeder       ./bird-feeder
+../../gear/boots/boots                   ./boots
+../../gear/carts/carts                   ./carts
+../../gear/case/case                     ./case
+../../gear/climbing/climbing             ./climbing
+../../gear/clothes/clothes               ./clothes
+../../gear/compass/compass               ./compass
+../../gear/cooking/cooking               ./cooking
+../../gear/crampons/crampons             ./crampons
+../../gear/docs/docs                     ./docs
+../../gear/fishing/fishing               ./fishing
+../../gear/flask/flask                   ./flask
+../../gear/gps/gps                       ./gps
+../../gear/guns/guns                     ./guns
+../../gear/ice-axes/ice-axes             ./ice-axes
+../../gear/knife/knife                   ./knife
+../../gear/lighters/lighters             ./lighters
+../../gear/lights/lights                 ./lights
+../../gear/pads/pads                     ./pads
+../../gear/poles/poles                   ./poles
+../../gear/rafts/rafts                   ./rafts
+../../gear/rope/rope                     ./rope
+../../gear/sat-phone/sat-phone           ./sat-phone
+../../gear/shoes/shoes                   ./shoes
+../../gear/sleeping-bags/sleeping-bags   ./sleeping-bags
+../../gear/snowshoes/snowshoes           ./snowshoes
+../../gear/tents/tents                   ./tents
+../../gear/watches/watches               ./watches
+../../gear/water/water                   ./water
