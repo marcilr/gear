@@ -30,5 +30,6 @@
 # =====================================================================
 ssh://git@github.com/marcilr/appliances   appliances
 ssh://git@github.com/marcilr/cases        cases
+ssh://git@github.com/marcilr/knives       knives
 ssh://git@github.com/marcilr/lights       lights
 ssh://git@github.com/marcilr/tents        tents
